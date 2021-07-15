@@ -1,0 +1,18 @@
+21:06:15 **** Build of configuration Debug for project calculator ****
+make all 
+Building file: ../src/calculator.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/calculator.d" -MT"src/calculator.o" -o "src/calculator.o" "../src/calculator.cpp"
+Finished building: ../src/calculator.cpp
+ 
+Building target: calculator
+Invoking: GCC C++ Linker
+g++  -o "calculator"  ./src/calculator.o   
+Finished building target: calculator
+ 
+21:06:19 **** Incremental Build of configuration Debug for project calculator ****
+make all 
+make: Nothing to be done for 'all'.
+21:06:52 **** Incremental Build of configuration Debug for project calculator ****
+make all 
+make: Nothing to be done for 'all'.

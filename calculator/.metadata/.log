@@ -1,0 +1,10 @@
+!SESSION 2021-07-15 21:05:18.866 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -data /home/npriyanshu/eclipse-workspace/calculator -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-15 21:06:26.781
+!MESSAGE Indexed 'calculator' (1 sources, 180 headers) in 6.74 sec: 13,765 declarations; 21,667 references; 0 unresolved inclusions; 0 syntax errors; 6 unresolved names (0.017%)
